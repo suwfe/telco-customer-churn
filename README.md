@@ -26,3 +26,15 @@ Two-year: 2.8%.
 
 Insight:
 Long-term contracts are strongly associated with lower churn, suggesting that customer commitment plays a major role in retention.
+
+2. Customer Tenure and Churn
+
+Churn is highest among newer customers and declines steadily over time.
+
+0–12 months: 47.4%,
+13–24 months: 28.7%,
+25–48 months: 20.4%,
+49+ months: 9.5%
+
+Insight:
+Customers in their first year are significantly more likely to churn, indicating that early-stage retention is critical.
