@@ -38,3 +38,14 @@ Churn is highest among newer customers and declines steadily over time.
 
 Insight:
 Customers in their first year are significantly more likely to churn, indicating that early-stage retention is critical.
+# Conclusion
+This analysis shows that customer churn is strongly influenced by both contract structure and customer tenure.
+
+Customers with low commitment (month-to-month contracts) are much more likely to leave
+Customers are most vulnerable to churn early in their lifecycle
+
+These findings suggest that businesses should focus on:
+
+Incentivizing longer-term contracts
+
+Improving onboarding and early customer experience
