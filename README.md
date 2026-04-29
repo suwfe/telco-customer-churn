@@ -41,7 +41,7 @@ Customers in their first year are significantly more likely to churn, indicating
 # Conclusion
 This analysis shows that customer churn is strongly influenced by both contract structure and customer tenure.
 
-Customers with low commitment (month-to-month contracts) are much more likely to leave
+Customers with low commitment (month-to-month contracts) are much more likely to leave.
 Customers are most vulnerable to churn early in their lifecycle
 
 These findings suggest that businesses should focus on:
