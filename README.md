@@ -49,3 +49,7 @@ These findings suggest that businesses should focus on:
 Incentivizing longer-term contracts
 
 Improving onboarding and early customer experience
+# Tools Used
+Apple Numbers (data cleaning, pivot tables, visualization)
+# Notes
+This project focuses on clear, interpretable analysis rather than complex modeling. The goal is to demonstrate the ability to extract meaningful insights from real-world data.
