@@ -33,6 +33,8 @@ Long-term contracts are strongly associated with lower churn, suggesting that cu
 
 Churn is highest among newer customers and declines steadily over time.
 
+![Churn Rate by Contract Type](IMG_4435.jpeg)
+
 0–12 months: 47.4%,
 13–24 months: 28.7%,
 25–48 months: 20.4%,
