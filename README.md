@@ -10,8 +10,11 @@ Internet service type,
 Churn status (Yes/No)
 # Methodology
 Cleaned and selected relevant variables from the dataset
+
 Created derived features (e.g., tenure groups) to analyze customer lifecycle stages
+
 Used pivot tables to calculate churn rates across different segments
+
 Built visualizations to clearly communicate key patterns
 # Key Findings
 1. Contract Type and Churn
