@@ -19,8 +19,10 @@ Built visualizations to clearly communicate key patterns
 # Key Findings
 1. Contract Type and Churn
 Customers on month-to-month contracts churn at significantly higher rates than those on longer-term contracts.
-Month-to-month: 42.7%
-One-year: 11.3%
-Two-year: 2.8%
+
+Month-to-month: 42.7%,
+One-year: 11.3%,
+Two-year: 2.8%.
+
 Insight:
 Long-term contracts are strongly associated with lower churn, suggesting that customer commitment plays a major role in retention.
