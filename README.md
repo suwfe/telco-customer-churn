@@ -3,10 +3,10 @@
 This project analyzes customer data from a telecommunications company to identify the key factors that drive customer churn. The goal is to understand which types of customers are most likely to leave and highlight actionable insights to improve retention.
 # Dataset
 The dataset contains approximately 7,000 customers and includes information on:
-Customer tenure (length of time with the company)
-Contract type (month-to-month, one-year, two-year)
-Monthly and total charges
-Internet service type
+Customer tenure (length of time with the company),
+Contract type (month-to-month, one-year, two-year),
+Monthly and total charges,
+Internet service type,
 Churn status (Yes/No)
 # Methodology
 Cleaned and selected relevant variables from the dataset
