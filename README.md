@@ -24,6 +24,8 @@ Month-to-month: 42.7%,
 One-year: 11.3%,
 Two-year: 2.8%.
 
+![Churn Rate by Contract Type](IMG_4430.jpeg)
+
 Insight:
 Long-term contracts are strongly associated with lower churn, suggesting that customer commitment plays a major role in retention.
 
